@@ -6,7 +6,7 @@ Django Based ERP system. Making it easier for students as well as teachers to ma
 Use the gitclone method to download the project onto your local system [pip](https://github.com/Arjitc12/Univ-DBMS.git)
 
 ```bash
-git install https://github.com/Arjitc12/Univ-DBMS.git
+git clone https://github.com/Arjitc12/Univ-DBMS.git
 ```
 
 ## Usage
@@ -16,6 +16,7 @@ cd ~/
 
 cd Univ
 ```
+
 You can either use a virtual environment and dependencies over there or directly install Django-admin
 
 ```bash
