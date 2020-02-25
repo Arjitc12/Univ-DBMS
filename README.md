@@ -17,7 +17,7 @@ cd ~/
 cd Univ
 ```
 
-You can either use a virtual environment and dependencies over there or directly install Django-admin
+You can either use a virtual environment and install dependencies over there or directly install Django-admin
 
 ```bash
 virtual env MyEnv -p python3.6
